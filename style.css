@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  color: black;
+  background-color: black;
+  
+}
+.d-block{
+  height: 500px;
+}
+.carousel-caption{
+  color: navy;
+}
